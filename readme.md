@@ -6,8 +6,7 @@ The purpose of this mini project was to put into practice the skills I had learn
 
 On the right side of the screen there are three input fields.</br>
 
-<img src="images/createMeme.jpg"/></br>
-
+![](images/createMeme.jpg)
 Copy the image address you want to use and enter the the text where you would like it.  Is that easy.
 
 ### Acknowledgments
