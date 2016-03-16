@@ -1,7 +1,7 @@
 {
   "name": "Meme",
   "tagline": "jQuery-mini-project",
-  "body": "# Create Your Own Memes\r\n\r\nThe purpose of this mini project was to put into practice the skills I had learned using jQuery.\r\n\r\n### How To Create Your Memes\r\n\r\nOn the right side of the screen there are three input fields.</br>\r\n\r\n![][create]</br>\r\n\r\nCopy the image address you want to use and enter the the text where you would like it.  Is that easy.\r\n\r\n### Acknowledgments\r\n\r\nThis project is one of the many projects created by the great folks of codecademy.\r\n\r\n### Created With\r\n\r\n<img src=\"http://i.imgur.com/w7Pepsj.gif\"/>\r\n\r\n[create]: images/createMeme.jpg\r\n",
+  "body": "# Create Your Own Memes\r\n\r\nThe purpose of this mini project was to put into practice the skills I had learned using jQuery.\r\n\r\n### How To Create Your Memes\r\n\r\nOn the right side of the screen there are three input fields.</br>\r\n\r\n![](images/memeProject.png)</br>\r\nCopy the image address you want to use and enter the the text where you would like it.  Is that easy.\r\n\r\n### Acknowledgments\r\n\r\nThis project is one of the many projects created by the great folks of codecademy.\r\n\r\n### Created With\r\n\r\n<img src=\"http://i.imgur.com/w7Pepsj.gif\"/>\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
